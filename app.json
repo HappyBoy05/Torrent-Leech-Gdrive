@@ -17,7 +17,7 @@
       "value": ""
     },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org",
+      "description": "Get this value fro https://my.telegram.org",
       "value": ""
     },
     "TG_BOT_TOKEN": {
